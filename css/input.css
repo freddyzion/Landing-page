@@ -1,0 +1,35 @@
+@import "tailwindcss";
+
+@font-face {
+    font-family: poppins;
+    src: url(/assets/fonts/poppins.ttf);
+}
+@font-face {
+    font-family: dm-sans;
+    src: url(/assets/fonts/dm-sans.ttf);
+}
+@font-face {
+    font-family: smeltex;
+    src: url(/assets/fonts/smeltex.otf);
+}
+@font-face {
+    font-family: requiner;
+    src: url(/assets/fonts/requiner.otf);
+}
+@font-face {
+    font-family: vactory-sans;
+    src: url(/assets/fonts/vactory-sans.ttf);
+}
+@font-face {
+    font-family: berdiate;
+    src: url(/assets/fonts/berdiate.otf);
+}
+
+@theme {
+    --font-poppins: poppins;
+    --font-dm-sans: dm-sans;
+    --font-smeltex: smeltex;
+    --font-requiner: requiner;
+    --font-vactory: vactory-sans;
+    --font-berdiate: berdiate;
+}
