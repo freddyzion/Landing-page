@@ -7,6 +7,7 @@
 @font-face {
     font-family: dm-sans;
     src: url(/assets/fonts/dm-sans.ttf);
+    font-weight: 300;
 }
 @font-face {
     font-family: smeltex;
